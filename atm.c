@@ -1,7 +1,7 @@
-/*deposit*/
+/*atm simulation system*/
 #include<stdio.h>
 #include<stdlib.h>
-void deposit()
+void deposit() //deposit function
 {	
 	int balance;
 	FILE *fp;
